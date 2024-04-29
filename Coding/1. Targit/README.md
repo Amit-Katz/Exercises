@@ -1,4 +1,4 @@
-# Exercise 1
+# Targit
 
 ## Summary
 We have this cool file: `text.txt`, it's content is:
